@@ -1,7 +1,8 @@
-# Minimal example of creating a simple fully static binary with ghc
+# Minimal example of creating a simple fully static binary with ghc + musl libc
 
 I'm assuming you don't care about shared libraries at all, and also want to
-show a contrived example. This is basically the bare minimum.
+show a contrived example. This is basically the bare minimum to get things
+working.
 
 ## Requirements
 
